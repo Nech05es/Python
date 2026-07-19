@@ -46,3 +46,32 @@ print(boolean) # Resultado --> False
 
 none = None
 print(none) # Resultado --> None
+
+# Extra #
+# Operadores Aritmeticos #
+"""
+Los Operadores Aritmeticos nos ayudan tanto a hacer operaciones matematicas como de tipo logicas.
+Tipo Adiccion : Signo de Suma (+)
+Tipo Resta : Signo de Menos (-)
+Tipo Multiplicador : Signo de Multiplicacion (*)
+Tipo Divisor : Signo de Divicion (/)
+Tipo Division Entera: Signo doble Barra invertida (//)
+Tipo Exponencial : Signo Multiplicacion doble (**)
+"""
+suma = 2 + 3
+print(suma)
+
+resta = 2 - 5
+print(resta)
+
+multiplicacion = 2 * 3
+print(multiplicacion)
+
+divisor = 5 / 10
+print(divisor)
+
+divisor_entero = 5 // 10
+print(divisor_entero)
+
+exponencial = 4 ** 5
+print(exponencial)
